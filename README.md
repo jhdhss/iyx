@@ -1,1 +1,1 @@
-# sshws-gcp
+ws
